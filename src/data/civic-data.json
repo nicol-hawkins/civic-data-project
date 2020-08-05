@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Dan Kalb",
+      "district": 1,
+      "defund": "Neutral",
+      "neighborhoods": [
+        "North Oakland"
+      ]
+    },
+    {
+      "name": "Nikki Fortunato Bass",
+      "district": 2,
+      "defund": "Pro-Defund",
+      "neighborhoods": [
+        "Grand Lake",
+        "Eastlake",
+        "Chinatown",
+        "San Antonio"
+      ]
+    },
+    {
+      "name": "Lynette Gibson McElhaney",
+      "district": 3,
+      "defund": "Anti-Defund",
+      "neighborhoods": [
+        "West Oakland",
+        "Downtown/Uptown",
+        "Jack London",
+        "Pill Hill",
+        "The Lake",
+        "The Port"
+      ]
+      },
+    {
+      "name": "Sheng Thao",
+      "district": 4,
+      "defund": "Neutral",
+      "neighborhoods": [
+        "Crestmont",
+        "Diamond",
+        "Montclair",
+        "Piedmont Pines",
+        "Redwood Heights",
+        "Allendale",
+        "Fairfax",
+        "Laurel"
+        ]
+    },
+    {
+      "name": "Noel Gallo",
+      "district": 5,
+      "defund": "Anti-Defund",
+      "neighborhoods": [
+        "Fruitvale",
+        "San Antonio"
+      ]
+    },
+    {
+      "name": "Loren Taylor",
+      "district": 6,
+      "defund": "Anti-Defund",
+      "neighborhoods": [
+        "Maxwell Park",
+        "Millsmont",
+        "Havenscourt",
+        "Eastmont"
+      ]
+    },
+    {
+      "name": "Larry Reid",
+      "district": 8,
+      "defund": "Anti-Defund",
+      "neighborhoods": [
+      ]
+    },
+    {
+      "name": "Rebecca Kaplan",
+      "district": "At-Large",
+      "defund": "Pro-Defund",
+      "neighborhoods": [
+        "Million tonne punch",
+        "Damage resistance",
+        "Superhuman reflexes"
+      ]
+    }
+  ]
