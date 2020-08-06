@@ -1,0 +1,36 @@
+body  {
+    background-color: #282d30;
+    color: white;
+  }
+
+h1 {
+text-align: center;
+}
+
+.dropdown {
+    text-align: center;
+}
+  
+.row {
+  padding: 20px;
+}
+
+.line {
+  color: white;
+  width: 50px;
+  height: 10px;
+}
+
+#card {
+  border-radius: 15px;
+  background-color: #3a4247;
+  color: white;
+  display: flex;
+  /* flex-wrap: wrap; */
+}
+
+#rep-img {
+  padding: 10px;
+  /* border: 5px solid #009900; */
+  border-radius: 50%;
+}
