@@ -1,14 +1,14 @@
 body  {
-    background-color: #282d30;
-    color: white;
+  background-color: #282d30;
+  color: white;
   }
 
 h1 {
-text-align: center;
+  text-align: center;
 }
 
 .dropdown {
-    text-align: center;
+  text-align: center;
 }
   
 .row {
@@ -30,11 +30,10 @@ text-align: center;
 }
 
 #rep-img {
-  padding: 10px;
   /* border: 5px solid #009900; */
   border-radius: 50%;
-  float: left;
-  width:  100px;
-  height: 100px;
-  background-size: cover;
+  /* float: left; */
+  width:  200px;
+  height: 200px;
+  /* background-size: cover; */
 }
