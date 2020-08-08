@@ -34,7 +34,7 @@ body  {
 
 #card {
   border-radius: 15px;
-  background-color: #3a4247;
+  background-color: #616e75;
   color: white;
   display: flex;
   /* flex-wrap: wrap; */
@@ -49,3 +49,13 @@ body  {
   height: 100px;
   background-size: cover;
 }
+
+.cardDiv {
+  height: 70vh;
+  position: relative;
+}
+
+#light {
+  background-color: #babbbb;
+}
+
