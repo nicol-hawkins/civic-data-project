@@ -16,6 +16,11 @@ body  {
   z-index: 1;
 }
 
+.navbar-expand-lg
+.navbar-nav .nav-link {
+  padding-right: 3.5rem;
+}
+
 
 .row {
   padding: 20px;
