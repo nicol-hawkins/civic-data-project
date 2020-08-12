@@ -58,17 +58,29 @@ body  {
 }
 
 #light {
-  background-color: #babbbb;
+  background-color: #3b4242;
 }
 
+h3 {
+  padding-right: 1vw;
+}
 
 .districtSelect {
   text-align: center;
   padding: 5vh;
+  height: 30vh;
+}
+
+.btn-secondary {
+  padding-left: 7vw;
 }
 
 .show {
   text-align: center;
   justify-content: center;
+}
+
+.languageSelect {
+  padding-left: 1vw;
 }
 
