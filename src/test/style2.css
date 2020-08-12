@@ -7,6 +7,7 @@ body  {
 .navbar-brand {
   margin-right: 22rem;
   position: sticky;
+  font-size: 3rem;
 }
 
 .navbar {
@@ -14,6 +15,7 @@ body  {
   position: sticky;
   top:0;
   z-index: 1;
+  height: 12vh;
 }
 
 .navbar-expand-lg
@@ -56,6 +58,29 @@ body  {
 }
 
 #light {
-  background-color: #babbbb;
+  background-color: #3b4242;
+}
+
+h3 {
+  padding-right: 1vw;
+}
+
+.districtSelect {
+  text-align: center;
+  padding: 5vh;
+  height: 30vh;
+}
+
+.btn-secondary {
+  padding-left: 7vw;
+}
+
+.show {
+  text-align: center;
+  justify-content: center;
+}
+
+.languageSelect {
+  padding-left: 1vw;
 }
 
